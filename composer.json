@@ -21,8 +21,8 @@
     ],
     "require": {
         "php": "^7.2",
-        "google/apiclient": "^2.0",
-        "illuminate/support": "^6.0",
+        "google/apiclient": "^2.*",
+        "illuminate/support": "^7.*",
         "symfony/cache": "^4.3|^5.0"
     },
     "require-dev": {
